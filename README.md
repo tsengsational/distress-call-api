@@ -1,24 +1,5 @@
-# README
+# Distress Call
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Distress Call is an SMS-based mental health application that empowers people dealing with addiction and any other mental health need to notify trusted friends that they need help.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This is the API for the application. The client-side repo is located [here](https://github.com/tsengsational/distress-call-client)
